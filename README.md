@@ -1,12 +1,12 @@
 # Data Scientist
 
-#### Technical Coding Skills: Python, SQL, R programming, MATLAB, PowerBI, Tableau, Looker, Qliksense, Snowflake, BigQuery
+#### Technical Skills: Python, SQL, R programming, MATLAB, PowerBI, Tableau, Looker, Qliksense, Snowflake, BigQuery
 #### Interest: Machine learning, Computer Vision, LLMs, and Visualization
 
 ## Education
 							       		
-- M.S., Data Science	| University of Adelaide (_September 2024_)-GPA: 6.9 / 7			        		
-- B.S., Chemical Engineering | Sirindhorn International Institute of Technology (_May 2018_)-GPA: 3.73 / 4
+- M.S., Data Science	| University of Adelaide (_September 2024_) GPA: 6.9 / 7			        		
+- B.S., Chemical Engineering | Sirindhorn International Institute of Technology (_May 2018_) GPA: 3.73 / 4
 
 ## Work Experience
 **AI Research Assistant @ University of Adelaide (_August 2024 - Present_)**
@@ -50,7 +50,7 @@ Over the past decade, machine learning techniques have made significant strides 
 
 During my Master’s degree, I designed websites for small-to-medium brunch cafes in Adelaide, focusing on improving their online presence and customer engagement. These projects involved creating responsive, user-friendly designs that showcased menus, integrated **online booking**, **reservation**, **online menu**, and **streamlined customer interactions**. As shown in the picture below, the goal was to blend functionality with appealing visuals for an optimal user experience.
 
-Mali Cafe           |  Six& Five Cafe
+[Mali Cafe](https://www.malicafe.com.au/)           |  [Six&Five Cafe](https://www.sixandfivecafe.com.au/)
 :-------------------------:|:-------------------------:
 ![Mali Cafe](/assets/img/websiteprofile_malicafe.png)  |   ![Six&Five Cafe](/assets/img/websiteprofile_sixandfivecafe.png) 
 
