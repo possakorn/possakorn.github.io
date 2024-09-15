@@ -1,7 +1,9 @@
 # add the following to _config.yml file
-title: PK - Possakorn Kittipipatthanapong
+title: >
+  PK
+  Possakorn Kittipipatthanapong
 
-logo: /assets/img/profile.png
+logo: /assets/img/my_profile-circle.png
 #description: text below image
 show_downloads: true
 theme: jekyll-theme-minimal
