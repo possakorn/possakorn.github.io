@@ -7,10 +7,10 @@
 
 ## Education
 							       		
-- M.S., Data Science	| University of Adelaide (_September 2024_) GPA: 6.9 / 7
-- **Projects:** Oyster Mushroom Growth Stage Classification: prompting methodologies in Vision-Language Model via LLMs        		
+- M.S., Data Science| University of Adelaide (_September 2024_) <br> GPA: 6.9 / 7
+- **Project:** Oyster Mushroom Growth Stage Classification: prompting methodologies in Vision-Language Model via LLMs |
 - B.S., Chemical Engineering | Sirindhorn International Institute of Technology (_May 2018_) GPA: 3.73 / 4
-- **Projects:** Antimicrobial properties of copper nanoparticle with silica support on skim coating cement
+- **Project:** Antimicrobial properties of copper nanoparticle with silica support on skim coating cement |
 
 ## Work Experience
 **AI Research Assistant @ University of Adelaide (_August 2024 - Present_)**
