@@ -1,6 +1,8 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Coding Skills: Python, SQL, R programming, MATLAB
+#### Technical Tool Skills: PowerBI, Tableau, Looker, Qliksense, Snowflake, BigQuery
+#### Interest: Machine learning, Computer Vision, Large language models (LLMs)
 
 ## Education
 							       		
@@ -19,15 +21,31 @@
 
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### ECommerce Churn Prediction
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+[Github Reporting](https://github.com/possakorn/DataScience-AcademicMaterial/blob/main/05_BigDataProject/partD_summary.pdf)
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+[Github Source Code](https://github.com/possakorn/DataScience-AcademicMaterial/blob/main/05_BigDataProject/implementation%20code.Rmd)
+
+In recent years, the growth of eCommerce has been driven by technological advancements and shifts in shopping behavior due to the COVID-19 pandemic. Analyzing vast amounts of data, such as purchase history and customer feedback, offers businesses valuable opportunities to improve profits by investigating churn behaviour in online shopping platform. A study using data from a Brazilian online store applied the LightGBM algorithm to identify key factors influencing customer churn by **Python** and reporting via **Overleaf**. The analysis revealed that factors such as purchase duration, spending behavior, location, and review scores were major contributors to customers leaving the platform.
+
+### S&P500 Stock Price Prediction
+
+[Github Reporting](https://github.com/possakorn/DataScience-AcademicMaterial/blob/main/06_Deeplearning/DeepLearning_StockPricePrediction_RNN.pdf)
+
+[Github Source Code](https://github.com/possakorn/DataScience-AcademicMaterial/blob/main/06_Deeplearning/Code_StockPricePrediction_RNN.ipynb)
+
+Over the past decade, machine learning techniques have made significant strides in forecasting financial time series, proving effective in various markets, including cryptocurrencies like Bitcoin and major stock indices such as the S&P 500. Building on these advancements, this study evaluates Recurrent Neural Networks (RNNs), including LSTM, GRU, BiLSTM, and BiGRU, to predict daily S&P 500 closing prices via **Python** and **Pytorch**. By normalizing and transforming the data, the models capture the non-linear dynamics of financial time series, with the Bidirectional Gated Recurrent Unit (BiGRU) standing out as the most effective for handling short-term dependencies and adapting to market volatility.
+
+### Website Design
+
+
+During my Master’s degree, I designed websites for small-to-medium brunch cafes in Adelaide, focusing on improving their online presence and customer engagement. These projects involved creating responsive, user-friendly designs that showcased menus, integrated online booking, and streamlined customer interactions. As shown in the picture below, the goal was to blend functionality with appealing visuals for an optimal user experience.
+
+![Mali Cafe](/assets/img/websiteprofile_malicafe.png) ![Six&Five Cafe](/assets/img/websiteprofile_sixandfivecafe.png) 
 
 
 <!-- ## Publications
 1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446 -->
 
-- [Data Science Blog - Comming soon](https://medium.com)
+[Data Science Blog - Comming soon](https://medium.com)
