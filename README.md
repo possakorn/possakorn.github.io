@@ -3,10 +3,16 @@
 #### Technical Skills: Python, SQL, R programming, MATLAB, PowerBI, Tableau, Looker, Qliksense, Snowflake, BigQuery
 #### Interest: Machine learning, Computer Vision, LLMs, and Visualization
 
+-----
+
 ## Education
 							       		
-- M.S., Data Science	| University of Adelaide (_September 2024_) GPA: 6.9 / 7			        		
-- B.S., Chemical Engineering | Sirindhorn International Institute of Technology (_May 2018_) GPA: 3.73 / 4
+- M.S., Data Science	| University of Adelaide (_September 2024_) 
+  GPA: 6.9 / 7
+  **Projects:** Oyster Mushroom Growth Stage Classification: prompting methodologies in Vision-Language Model via LLMs        		
+- B.S., Chemical Engineering | Sirindhorn International Institute of Technology (_May 2018_)
+  GPA: 3.73 / 4
+  **Projects:** Antimicrobial properties of copper nanoparticle with silica support on skim coating cement
 
 ## Work Experience
 **AI Research Assistant @ University of Adelaide (_August 2024 - Present_)**
@@ -32,6 +38,8 @@
 - Integrated Agile and Scrum methodologies to organize and prioritize software projects, enhancing team efficiency, ensuring alignment with project objectives under business requirements, collaborative process to maintain great customer service.
 - Led in-depth customer research, collaborating with technical teams to identify business needs and project scope with attention to detail, resulting in efficiency of project planning and lean in resource allocation.
 
+-----
+
 ## Projects
 ### ECommerce Churn Prediction
 
@@ -39,11 +47,15 @@
 
 In recent years, the growth of **eCommerce** has been driven by technological advancements and shifts in shopping behavior due to the COVID-19 pandemic. Analyzing vast amounts of data, such as purchase history and customer feedback, offers businesses valuable opportunities to improve profits by investigating **churn prediction** in online shopping platform. A study using data from a Brazilian online store applied the LightGBM algorithm to identify key factors influencing customer churn by **Python** and reporting via **Overleaf**. The analysis revealed that factors such as purchase duration, spending behavior, location, and review scores were major contributors to customers leaving the platform.
 
+-----
+
 ### S&P500 Stock Price Prediction
 
 [Github Reporting](https://github.com/possakorn/DataScience-AcademicMaterial/blob/main/06_Deeplearning/DeepLearning_StockPricePrediction_RNN.pdf) & [Github Source Code](https://github.com/possakorn/DataScience-AcademicMaterial/blob/main/06_Deeplearning/Code_StockPricePrediction_RNN.ipynb)
 
 Over the past decade, machine learning techniques have made significant strides in forecasting financial time series, proving effective in various markets, including cryptocurrencies like Bitcoin and major stock indices such as the S&P 500. Building on these advancements, this study evaluates Recurrent Neural Networks (RNNs), including LSTM, GRU, BiLSTM, and BiGRU, to **predict daily S&P 500** closing prices via **Python** and **Pytorch**. By normalizing and transforming the data, the models capture the non-linear dynamics of financial time series, with the Bidirectional Gated Recurrent Unit (BiGRU) standing out as the most effective for handling short-term dependencies and adapting to market volatility.
+
+-----
 
 ### Website Design
 
@@ -53,6 +65,7 @@ During my Master’s degree, I designed websites for small-to-medium brunch cafe
 [Mali Cafe](https://www.malicafe.com.au/)           |  [Six&Five Cafe](https://www.sixandfivecafe.com.au/)
 :-------------------------:|:-------------------------:
 ![Mali Cafe](/assets/img/websiteprofile_malicafe.png)  |   ![Six&Five Cafe](/assets/img/websiteprofile_sixandfivecafe.png) 
+
 
 
 
