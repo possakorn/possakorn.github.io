@@ -1,4 +1,4 @@
-# Data Scientist
+# Data Scientist and Analyst
 
 #### Technical Skills: Python, SQL, R programming, MATLAB, PowerBI, Tableau, Looker, Qliksense, Snowflake, BigQuery
 #### Interest: Decision Making, Machine learning, Visualization, Computer Vision, and LLMs.
