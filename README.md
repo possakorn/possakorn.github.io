@@ -70,7 +70,8 @@ Designed websites for small-to-medium brunch cafes in Adelaide, focusing on user
 							       		
 #### M.S., Data Science| University of Adelaide (_September 2024_) <br> GPA: 6.9 / 7
 - **Project:** Oyster Mushroom Growth Stage Classification: prompting methodologies in Vision-Language Model via LLMs
-#### B.S., Chemical Engineering | Sirindhorn International Institute of Technology (_May 2018_) GPA: 3.73 / 4
+
+#### B.S., Chemical Engineering | Sirindhorn International Institute of Technology (_May 2018_) <br> GPA: 3.73 / 4
 - **Project:** Antimicrobial properties of copper nanoparticle with silica support on skim coating cement
 
 # Work Experience
