@@ -69,7 +69,19 @@ Designed websites for small-to-medium brunch cafes in Adelaide, focusing on user
 # Education
 							       		
 #### M.S., Data Science| University of Adelaide (_September 2024_) <br> GPA: 6.9 / 7
-- **Project:** Oyster Mushroom Growth Stage Classification: prompting methodologies in Vision-Language Model via LLMs
+- **Project:** Oyster Mushroom Growth Stage Classification
+- This project leverages Vision-Language Models (VLMs) and LLMs to classify growth stages of oyster mushrooms using advanced prompting methodologies. In collaboration with local farming initiatives and government-funded programs, the project aims to enhance operational efficiency in mushroom farming through cutting-edge AI techniques.
+
+![Figure1Result](/assets/img/FinalProjects.png) 
+
+- Key Highlights:
+  - Focus: Growth stage classification using Vision-Language Models.
+  - Methodology: Advanced prompting techniques via LLMs.
+  - Impact: Supports local farming initiatives and optimizes processes in mushroom cultivation.
+This project demonstrates the potential of AI to revolutionize agricultural practices while contributing to sustainable farming solutions.
+
+
+
 
 #### B.S., Chemical Engineering | Sirindhorn International Institute of Technology (_May 2018_) <br> GPA: 3.73 / 4
 - **Project:** Antimicrobial properties of copper nanoparticle with silica support on skim coating cement
