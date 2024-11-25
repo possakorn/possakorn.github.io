@@ -69,10 +69,9 @@ Designed websites for small-to-medium brunch cafes in Adelaide, focusing on user
 # Education
 							       		
 #### M.S., Data Science| University of Adelaide (_September 2024_) <br> GPA: 6.9 / 7
-- **Project:** Oyster Mushroom Growth Stage Classification
-- This project leverages Vision-Language Models (VLMs) and LLMs to classify growth stages of oyster mushrooms using advanced prompting methodologies. In collaboration with local farming initiatives and government-funded programs, the project aims to enhance operational efficiency in mushroom farming through cutting-edge AI techniques.
+- **Project:** Oyster Mushroom Growth Stage Classification <br> This project leverages Vision-Language Models (VLMs) and LLMs to classify growth stages of oyster mushrooms using advanced prompting methodologies. In collaboration with local farming initiatives and government-funded programs, the project aims to enhance operational efficiency in mushroom farming through cutting-edge AI techniques.
 
-![Figure1Result](/assets/img/FinalProjects.png) 
+    ![Figure1Result](/assets/img/FinalProjects.png) 
 
 - Key Highlights:
   - Focus: Growth stage classification using Vision-Language Models.
